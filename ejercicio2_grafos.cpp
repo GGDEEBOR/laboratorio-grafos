@@ -1,3 +1,8 @@
+/*
+   Nombres y Apellidos: Edson Bryan Béjar Román
+
+*/
+
 #include <iostream>
 #include <list>
 #include <ostream>
