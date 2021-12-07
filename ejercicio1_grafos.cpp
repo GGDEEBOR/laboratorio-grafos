@@ -1,3 +1,8 @@
+/*
+
+ Nombres y Apellidos:  Edson Bryan Béjar Román
+
+*/
 #include<iostream>
 using namespace std;
 
